@@ -19,7 +19,7 @@
   <img align="center" alt="Rafa-MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <img align="center" width="135rem" alt="Rafa-VSCode" src="https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label">
 </div>
-<br>
+
 <h3>CONTACT<h3>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
