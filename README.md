@@ -13,7 +13,7 @@
   <img align="center" alt="Rafa-Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="Rafa-Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 </div>
- 
+  
 <h4>Databases & Tools</h4>
 <div style="display: inline_block">
   <img align="center" alt="Rafa-MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
@@ -21,6 +21,12 @@
   <img align="center" width="135rem" alt="Rafa-VSCode" src="https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label">
 </div>
 
+<h4>Learning</h4>
+<div style="display: inline_block">
+  <img align="center" alt="Rafa-C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+</div>
+ 
+  
 <h3>CONTACT<h3>
 <a href="mailto:rafael.gmm@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 <a href="https://discord.gg/63bkDKCcTf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
