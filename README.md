@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Rafael Machado
+### Hello there 🧔, I'm Rafael Machado
 <hr>
 <div align="center">
   <a href="https://github.com/RafaelGMMachado">
