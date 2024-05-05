@@ -22,9 +22,9 @@
   <img align="center" width="135rem" alt="Rafa-VSCode" src="https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label">
 </div>
 
-[//]: <> <h4>Learning</h4>
-[//]: <><div style="display: inline_block">
-[//]: <></div>
+# <h4>Learning</h4>
+# <div style="display: inline_block">
+# </div>
  
   
 <h3>CONTACT<h3>
