@@ -22,10 +22,11 @@
   <img align="center" width="135rem" alt="Rafa-VSCode" src="https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label">
 </div>
 
-# <h4>Learning</h4>
-# <div style="display: inline_block">
-# </div>
- 
+<!---
+<h4>Learning</h4>
+<div style="display: inline_block">
+</div>
+ -->
   
 <h3>CONTACT<h3>
 <a href="mailto:rafael.gmm@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
